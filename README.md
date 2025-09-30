@@ -80,3 +80,8 @@ By completing and understanding this project, you will be able to demonstrate yo
 ## License
 
 This project is provided for educational and portfolio purposes. Feel free to use, modify, or extend it for non‑commercial use. If you share your own version, please credit the original author.
+
+
+## Feedback
+
+If you have any questions or suggestions for improving this project, feel free to open an issue or submit a pull request.
